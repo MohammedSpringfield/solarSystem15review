@@ -1,4 +1,4 @@
-public class featureSun {
+public class sun {
 
 
         String temperature;
